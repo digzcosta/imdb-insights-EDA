@@ -8,7 +8,6 @@ env/
 
 # Dados (Arquivos CSV e bases de dados)
 data/raw/*.csv
-data/**/*.csv
 
 # Logs e arquivos temporários de Notebooks
 .ipynb_checkpoints
