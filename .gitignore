@@ -1,2 +1,14 @@
-imdb-movies-dataset.csv
+# Ambiente Virtual
+.venv/
 venv/
+env/
+
+# Arquivos de sistema (macOS)
+.DS_Store
+
+# Dados (Arquivos CSV e bases de dados)
+data/raw/*.csv
+data/**/*.csv
+
+# Logs e arquivos temporários de Notebooks
+.ipynb_checkpoints
